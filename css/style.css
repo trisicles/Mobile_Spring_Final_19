@@ -1,0 +1,47 @@
+html{
+    justify-content: center;
+    max-width:490px;
+    margin: auto;
+  }
+  
+  #island{
+    height: 700px;
+    display: block;
+  }
+  
+  #summer{
+    font-size: 90px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: #014262;
+    background-color: #FBF7EB;
+    position: relative;
+    top: -160px;
+    font-weight: bold;
+  }
+  
+  p.lorem{
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    color: #014262;
+    position: relative;
+    top: -160px;
+    width: 65%;
+    font-weight: bold;
+  }
+  
+  p.viv{
+    width: 65%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 12.31px;
+    position: relative;
+    top: -160px;
+  }
+  
+  .surfer2{
+    width: 310px;
+    height: 250px;
+    border-radius: 3%;
+    position: relative;
+    top: -150px;
+    margin: 5px;
+  }
